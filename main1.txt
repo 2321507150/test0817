@@ -2,8 +2,6 @@ main1
 min in git
 mix in git revert test
 xiugai in dev 
-(鍦╠ev涓慨鏀筸ain1.txt)
-再次在dev上修改
+mix in vscode for editter
 鍦╣it 涓婁慨鏀筪ev 
-再次在dev上修改
-mix in dev branch for cherry-pick
+鍦╣it涓婂啀娆′慨鏀筪ev
