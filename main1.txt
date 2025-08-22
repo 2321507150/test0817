@@ -2,5 +2,7 @@ main1
 min in git
 mix in git revert test
 xiugai in dev 
+zai github shang xiugai
+gai ba
 mix in vscode for editter
 
