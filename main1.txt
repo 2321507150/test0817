@@ -3,5 +3,4 @@ min in git
 mix in git revert test
 xiugai in dev 
 mix in vscode for editter
-在git 上修改dev 
-在git上再次修改dev
+
